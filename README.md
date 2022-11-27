@@ -1,5 +1,5 @@
 # Library-mangement-system
-Term Project:In this project you will build a Library Management System (LMS) for a university. This must be a web app hosted in the cloud. The primary language you use for server implementation must be Java. 
+Term Project:In this project you will build a Library Management System (LMS) for a university. This must be a desktop based. The primary language you use for server implementation must be Java. 
 You must use either a relational database,
 Functional Requirements:This software manages many aspects of a university library system, including cataloging.
 Users and Authentication:In admin login the user name and password are fixed (name=admin & password=admin) and in librarian login those who can login who were added in admin section by admin
